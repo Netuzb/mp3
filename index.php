@@ -1,9 +1,9 @@
 
 <?php
 ob_start();
-define('API_KEY','1259846948:AAHBI3Nur3nRdmSsLQdXQmY0etnv1r4Aw0M');
+define('API_KEY','928001775:AAHacRNeh6-1NEo3pPrsAhm7cxOPdGbwRys');
 
-$admin = "741494603";
+$admin = "605778538";
 function fsize($size,$round=2)
 {
 $sizes=array(' Bytes',' Kb',' Mb',' Gb',' Tb');
